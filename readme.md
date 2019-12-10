@@ -1,4 +1,4 @@
-## TAME INITIATIVE
+## DEVCHUKSEMEKA
 <br>
 Setting up application
 <br>
@@ -10,6 +10,3 @@ Setting up application
 
 <code>cp .env.example .env</code>
 
-<code>php artisan serve</code>
-
-<code>php artisan jwt:secret</code>
