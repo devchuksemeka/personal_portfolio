@@ -612,6 +612,26 @@
                                       </div>
                                   </a>
                               </figure>
+                              <figure class="item" data-groups='["all", "web_app"]'>
+                                  <a href="{{asset('assets')}}/images/portfolio/5.png" class="lightbox mfp-iframe">
+                                      <img src="{{asset('assets')}}/images/portfolio/5.png" alt=""/>
+                                      <div>
+                                          <h5 class="name">RELEAF Factory Operation Tool (FOT)</h5>
+                                          <small>Enterprise Application</small>
+                                          <i class="pe-7s-icon pe-7s-display2"></i>
+                                      </div>
+                                  </a>
+                              </figure>
+                              <figure class="item" data-groups='["all", "web_app"]'>
+                                  <a href="{{asset('assets')}}/images/portfolio/6.png" class="lightbox mfp-iframe">
+                                      <img src="{{asset('assets')}}/images/portfolio/6.png" alt=""/>
+                                      <div>
+                                          <h5 class="name">TAME: The African Music Evolution Initiative</h5>
+                                          <small>Web Application</small>
+                                          <i class="pe-7s-icon pe-7s-display2"></i>
+                                      </div>
+                                  </a>
+                              </figure>
                           </div>
                       </div>
                   </div>
