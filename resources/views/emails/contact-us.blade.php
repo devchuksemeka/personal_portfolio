@@ -97,7 +97,7 @@
 
 <body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" style="background-color:#FFFFFF;  font-family:Arial,serif; margin:0; padding:0; min-width: 100%; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;">
 
-    <!--[if !mso]><!-- -->
+
     <img style="min-width:640px; display:block; margin:0; padding:0" class="mobileOff" width="640" height="1" src="http://s14.postimg.org/7139vfhzx/spacer.gif">
     <!--<![endif]-->
 
@@ -128,7 +128,7 @@
                                         <table width="500" class="mobile">
                                             <tr>
                                                 <td style="font-family:arial; font-size:14px; line-height:24px; color:#aeaeae;" align="center" mc:label="the_copy" mc:edit="the_copy">
-                                                    An email has been sent to you via the PGF Contact Us form. <br>Kindly see the content below:
+                                                    An email has been sent to you via the Devchuksemeka Contact Us form. <br>Kindly see the content below:
                                                 </td>
                                             </tr>
                                             <tr>
@@ -138,7 +138,6 @@
                                                 <td style="font-family:arial; font-size:14px; line-height:24px; color:#aeaeae;" align="center" mc:label="the_copy" mc:edit="the_copy">
                                                     Sender Name : <strong>{{$data['name']}}</strong> <br>
                                                     Sender Email : <strong>{{$data['email']}}</strong> <br>
-                                                    Sender Subject : <strong>{{$data['subject']}}</strong> <br>
                                                     Sender Message : <strong>{{$data['message']}}</strong>
                                                 </td>
                                             </tr>
