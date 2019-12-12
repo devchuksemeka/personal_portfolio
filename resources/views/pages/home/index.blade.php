@@ -358,6 +358,12 @@
                                     </div>
                                     <div class="timeline">
                                         <div class="timeline-event te-primary">
+                                            <h5 class="event-date">Nov 2019 - Current</h5>
+                                            <h4 class="event-name">Full-Stack Developer</h4>
+                                            <span class="event-description">Releaf</span>
+                                            <p>Develop Website and API using <strong>NodeJS</strong> and <strong>ReactJS</strong></p>
+                                        </div>
+                                        <div class="timeline-event te-primary">
                                             <h5 class="event-date">Jun 2019 - Current</h5>
                                             <h4 class="event-name">Fullstack-developer</h4>
                                             <span class="event-description">UOE Domos</span>
